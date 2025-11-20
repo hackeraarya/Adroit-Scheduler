@@ -4,6 +4,7 @@
 	box-sizing: border-box;
 	font-family: sans-serif;
 
+
 }
 html{
 	scroll-behavior: smooth;
@@ -105,13 +106,13 @@ nav a:hover
 }
 .card .txt h2{
 	margin-bottom: 20px;
-	color: #38c0b3;
+	color: #6a0404;
 }
 .card .crdbtn .btn
 {
-	color: #fff;
+	color: #f9ecec;
 	position: relative;
-	background-color: #01d7a7;
+	background-color: #371d67;
 	border-radius: 3px;
 	padding: 16px 36px;
 	text-align: center;
