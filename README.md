@@ -8,7 +8,7 @@
  2. Django2.0 or above
  
 #### Run on your local machine by:
-* `git clone https://github.com/Adroit-Abhik/Adroit-Scheduler/`
+* `git clone https://github.com/hackeraarya/Adroit-Scheduler.git`
 * `cd M1`
 * `python manage.py runserver`
 * then go to port `http://127.0.0.1:8000/timetable_generation/` to run the local server
